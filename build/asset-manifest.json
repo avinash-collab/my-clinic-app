@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/https//avinash-collab.github.io/clini-app-UI/static/css/main.0be61eef.css",
+    "main.js": "/https//avinash-collab.github.io/clini-app-UI/static/js/main.0078765c.js",
+    "static/media/Screenshot 2024-07-18 083038.png": "/https//avinash-collab.github.io/clini-app-UI/static/media/Screenshot 2024-07-18 083038.2ec0df2de6938d98285f.png",
+    "static/media/Screenshot 2024-07-18 083000.png": "/https//avinash-collab.github.io/clini-app-UI/static/media/Screenshot 2024-07-18 083000.9dfd11e08d49d448223f.png",
+    "static/media/image.jpg": "/https//avinash-collab.github.io/clini-app-UI/static/media/image.420a664aca75cd42fe67.jpg",
+    "static/media/very-minimal-abstract-4k-2o-1920x1080.jpg": "/https//avinash-collab.github.io/clini-app-UI/static/media/very-minimal-abstract-4k-2o-1920x1080.06d55187b54c0f448d5d.jpg",
+    "index.html": "/https//avinash-collab.github.io/clini-app-UI/index.html",
+    "main.0be61eef.css.map": "/https//avinash-collab.github.io/clini-app-UI/static/css/main.0be61eef.css.map",
+    "main.0078765c.js.map": "/https//avinash-collab.github.io/clini-app-UI/static/js/main.0078765c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be61eef.css",
+    "static/js/main.0078765c.js"
+  ]
+}
